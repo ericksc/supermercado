@@ -1,0 +1,5 @@
+[
+  {"cedula": "1234", "nombre": "juan", "direccion": "heredia", "telefono": "444"},
+  {"cedula": "456", "nombre": "carlos", "direccion": "limon", "telefono": "333"},
+  {"cedula": "678", "nombre": "andres", "direccion": "alajuela", "telefono": "777"}
+]
