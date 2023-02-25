@@ -1,3 +1,5 @@
+# modulo principal
+# ejecutar este para lanzar el programa de supermercado
 from control import control_flujo
 
 print("Bienvenido al supermercado")
